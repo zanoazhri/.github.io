@@ -1,0 +1,27 @@
+.simple {
+  width: 500px;
+  margin: 20px auto;
+  border: solid rgb(0, 255, 98);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.fancy {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border: solid rgb(0, 255, 85) 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.judul {
+  font-size: 25px;
+  color: rgb(250, 6, 6);
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}

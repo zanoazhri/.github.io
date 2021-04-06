@@ -1,0 +1,47 @@
+.static {
+  font-size: 35px;
+}
+.judul {
+  font-size: 50px;
+  color: yellow;
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.relative1 {
+  position: relative;
+  font-size: 35px;
+  border: solid blueviolet;
+}
+
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: red;
+}
+
+.Mantap {
+  font-size: 35px;
+}
+
+.relative {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  border: solid red;
+  font-size: 35px;
+}
+.absolute {
+  position: absolute;
+  top: 900px;
+  right: 650px;
+  width: 300px;
+  height: 200px;
+  border: solid rgb(255, 0, 0);
+  font-size: 35px;
+}

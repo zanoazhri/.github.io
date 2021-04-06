@@ -1,0 +1,13 @@
+div {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.judulbos {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(38, 236, 104);
+  border-radius: 30px;
+}
