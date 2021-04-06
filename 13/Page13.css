@@ -1,0 +1,39 @@
+body{
+    font-family:'Lucida Console';
+}
+h1{
+  text-align: center
+}
+.article{
+  font-size: 18px;
+  border-style: solid;
+}
+article img {
+    float: right;
+    width: 15%;
+}
+.container {
+    position: relative;
+    border: #ff0000;
+    border-style: solid;
+
+}
+nav {
+    float: left;
+    width: 25%;
+    position: absolute;
+    left: 0px;
+    height: 170px;
+    width: 200px;
+    border: #ff0000;
+    border-style: solid;
+}
+section {
+    margin-left: 25%;
+    margin-left: 204px;
+    border: #ff0000;
+    border-style: solid;
+}
+body {
+    margin-bottom: 120px;
+}
