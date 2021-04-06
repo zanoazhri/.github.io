@@ -1,0 +1,12 @@
+  img {
+  float: right;
+}
+
+div {
+  font-size: 30px;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
